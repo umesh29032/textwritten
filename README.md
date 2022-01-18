@@ -17,9 +17,9 @@
     Convert text file to handwritten pdf
     <br />
     <br />
-    <a href="https://github.com/shie-ld/textwritten/issues">Report Bug</a>
+    <a href="https://github.com/umesh29032/textwritten/issues">Report Bug</a>
     ·
-    <a href="https://github.com/shie-ld/textwritten/issues">Request Feature</a>
+    <a href="https://github.com/umesh29032/textwritten/issues">Request Feature</a>
   </p>
 </p>
 
@@ -98,7 +98,7 @@ in your terminal to install all the required dependencies and modules. Else they
 
 1. Clone the repo
 ```sh
-git clone https://github.com/shie-ld/textwritten.git
+git clone https://github.com/umesh29032/textwritten.git
 ```
 2. Install required modules
 ```sh
@@ -142,7 +142,7 @@ OPTIONS
 So practical usage will look like:
 ```sh
 # cloning the repo in your machine
-git clone https://github.com/shie-ld/textwritten.git
+git clone https://github.com/umesh29032/textwritten.git
 
 cd textwritten/src
 
@@ -157,7 +157,7 @@ And you are good to go:smile:
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/shie-ld/textwritten/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/umesh29032/textwritten/issues) for a list of proposed features (and known issues).
 
 
 
@@ -184,7 +184,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/shie-ld/textwritten](https://github.com/shie-ld/textwritten)
+Project Link: [https://github.com/umesh29032/textwritten](https://github.com/umesh29032/textwritten)
 
 
 Rudresh Dixit : [00rudreshdixit@gmail.com](00rudreshdixit.gmail.com)
@@ -194,16 +194,16 @@ Rudresh Dixit : [00rudreshdixit@gmail.com](00rudreshdixit.gmail.com)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/shie-ld/textwritten.svg?style=flat-square
-[contributors-url]: https://github.com/shie-ld/textwritten/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/shie-ld/textwritten.svg?style=flat-square
-[forks-url]: https://github.com/shie-ld/textwritten/network/members
-[stars-shield]: https://img.shields.io/github/stars/shie-ld/textwritten.svg?style=flat-square
-[stars-url]: https://github.com/shie-ld/textwritten/stargazers
-[issues-shield]: https://img.shields.io/github/issues/shie-ld/textwritten.svg?style=flat-square
-[issues-url]: https://github.com/shie-ld/textwritten/issues
-[license-shield]: https://img.shields.io/github/license/shie-ld/textwritten.svg?style=flat-square
-[license-url]: https://github.com/shie-ld/textwritten/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/umesh29032/textwritten.svg?style=flat-square
+[contributors-url]: https://github.com/umesh29032/textwritten/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/umesh29032/textwritten.svg?style=flat-square
+[forks-url]: https://github.com/umesh29032/textwritten/network/members
+[stars-shield]: https://img.shields.io/github/stars/umesh29032/textwritten.svg?style=flat-square
+[stars-url]: https://github.com/umesh29032/textwritten/stargazers
+[issues-shield]: https://img.shields.io/github/issues/umesh29032/textwritten.svg?style=flat-square
+[issues-url]: https://github.com/umesh29032/textwritten/issues
+[license-shield]: https://img.shields.io/github/license/umesh29032/textwritten.svg?style=flat-square
+[license-url]: https://github.com/umesh29032/textwritten/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/rudresh-dixit-11a15618a/
 
