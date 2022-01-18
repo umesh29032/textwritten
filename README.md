@@ -187,7 +187,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Project Link: [https://github.com/umesh29032/textwritten](https://github.com/umesh29032/textwritten)
 
 
-Rudresh Dixit : [00rudreshdixit@gmail.com](00rudreshdixit.gmail.com)
 
 
 
